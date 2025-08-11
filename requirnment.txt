@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+python-dotenv
+langchain-groq
+
+
+
+fastapi
+uvicorn[standard]
+python-dotenv
+langchain
+langchain-groq
+streamlit
+requests
